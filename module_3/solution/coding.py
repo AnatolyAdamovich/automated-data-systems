@@ -88,7 +88,6 @@ class EliasCoder:
 
         return decoded_result
 
-
     def decode_delta_string(self, encoded_string: str):
         '''
         Декодирование дельта кода Элиаса для строки, содержащей несколько чисел 
